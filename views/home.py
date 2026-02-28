@@ -7,8 +7,9 @@ st.title("Meine erste Streamlit App")
 """
 Diese App wurde von folgenden Personen entwickelt:
 - Sofia Lercara (lercasof@students.zhaw.ch)
-- Carolina Tresch (tresccar@students.zhaw.ch)
 - Aya Ramadan (ramadaya@students.zhaw.ch)
+- Carolina Tresch (tresccar@students.zhaw.ch)
+
 
 Diese App ist das leere Gerüst für die App-Entwicklung im Modul Informatik 2 (BMLD/ZHAW)
 
